@@ -6,11 +6,11 @@ shared = getenv("SHARED_FOLDER", 'shared/')
 TELEGRAM
 """
 
-api_id = 29464630
-api_hash = 'a4d41f39d5ac2a2298d84247a1f4ab89'
+api_id = 
+api_hash = ''
 api_sess_name = 'anon' # anon.session
 
-target_chat_id = -1001525675264 # found messages will be posted here
+target_chat_id = -1001525623232 # found messages will be posted here
 link_template = "https://t.me/c/{{chat_id}}/{{message_id}}"
 
 ignore_chats = []
